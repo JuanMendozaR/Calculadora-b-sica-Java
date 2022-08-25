@@ -1,7 +1,7 @@
 # Calculadora-básica-Java
 Una Interfaz grafica de calculadora básica
 
-![imagen Ventana]()
+![imagen Ventana](https://github.com/JuanMendozaR/Calculadora-b-sica-Java/blob/main/miCalculadora.png)
 
 
 
