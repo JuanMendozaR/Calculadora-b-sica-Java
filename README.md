@@ -20,4 +20,4 @@ C:\javaCmd> java MiCalculadora
 
 Nota. Es necesario tener instalado el SDK de Java ( Java Development Kit)
 
-Para ver un video ve al siguiente link[Calculadora  básica con Java]()
+Para ver un video de como hacerlo ve al siguiente link [Calculadora  básica con Java]()
