@@ -10,6 +10,7 @@ Interfaz grafica de una calculadora básica
 
 
 Solo necesitas copiar el codigo, pegar  en un bloc de notas y guardar como MiCalculadora.java.
+
 Para compilar y ejecutar puedes hacerlo desde el cmd con las siguientes lineas de codigo:
 
 C:\javaCmd> javac MiCalculadora.java     
