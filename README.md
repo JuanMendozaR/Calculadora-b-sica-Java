@@ -1,5 +1,5 @@
-# Calculadora-básica-Java
-Interfaz grafica de una calculadora  básica
+# Calculadora básica con Java
+Interfaz grafica de una calculadora básica
 
 ![imagen Ventana](https://github.com/JuanMendozaR/Calculadora-b-sica-Java/blob/main/miCalculadora.png)
 
@@ -19,3 +19,5 @@ C:\javaCmd> java MiCalculadora
 // para ejecutar el programa
 
 Nota. Es necesario tener instalado el SDK de Java ( Java Development Kit)
+
+Para ver un video ve al siguiente link
